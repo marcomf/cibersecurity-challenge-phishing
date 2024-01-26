@@ -18,5 +18,12 @@ Desafio da formação Cybersecurity Specialist da plataforma dio.me, que consist
 <p>Escolher o template utilizado: Google: 2</p>
 
 <h4>Tudo Pronto!</h4>
+<h3>Resultado do Desafio</h3>
+<img src="googleprint.png">
+<img src="kali2.png">
+
+
+
+
 
 
