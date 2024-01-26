@@ -1,6 +1,3 @@
-
-
-
 <h1>Phishing para captura de senhas</h1>
 <hr>
 <p>Desafio da formação Cybersecurity Specialist da plataforma dio.me, que consiste em criar uma página de phishing para captura de senhas.</p>
