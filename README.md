@@ -23,8 +23,8 @@
 </ul>
 <h3>Resultado do Desafio</h3>
 <hr>
-<img src="googleprint.png">
-<img src="kali2.png">
+<img src="/assets/googleprint.png">
+<img src="/assets/kali2.png">
 
 
 
